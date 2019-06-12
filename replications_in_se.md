@@ -19,6 +19,8 @@ http://rave.ohiolink.edu/etdc/view?acc_num=bgsu1530525754458504
 ) by M. Arafat (advisor: R. Dyer). 2018 Masters Thesis, Bowling Green State University.
 5. ["Improving Automated Source Code Summarization via an Eye-Tracking Study of Programmers"]() by Rodeghero, McMillan, McBurney, Bosch, D’Mello. ICSE 2014. ACM Distinguished Paper Award. Replicated in:
 	- ["Developer Reading Behavior While Summarizing Java Methods: Size and Context Matters"](https://arxiv.org/abs/1903.03358) by Abid, Sharif, Dragan, Alrasheed, Maletic. ICSE 2019.
+6. ["Automatic Summarization of Bug Reports"](https://www.computer.org/csdl/journal/ts/2014/04/06704866/13rRUxcKzWP) by Sarah Rastkar, Gail C. Murphy, Gabriel Murray. Replicated in: 
+	- ["A partial replication of Automatic Summarization of Bug Reports"]() by Akalanka Galappaththi, John Anvik. SEKE 2019.
 
 
 
